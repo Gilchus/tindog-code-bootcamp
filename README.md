@@ -1,2 +1,1 @@
-# tindog code-bootcamp
- 
+TinDog Starting Files
